@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e53ebc74-f881-4c4f-915d-ae390b855e31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/loggingProjectZajavka.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/loggingProjectZajavka.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/MortgageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/InputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/MortgageReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/MortgageResidual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/MortgageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/Overpayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/Rate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/RateAmounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/Summary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/model/TimePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/AmountsCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/AmountsCalculationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/ConstantAmountsCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/ConstantAmountsCalculationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/DecreasingAmountsCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/DecreasingAmountsCalculationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/MortgageCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/MortgageCalculationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/MortgageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/OverpaymentCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/OverpaymentCalculationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/PrintingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/PrintingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/RateCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/RateCalculationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/ReferenceCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/ReferenceCalculationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/ResidualCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/ResidualCalculationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/SummaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/SummaryServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/TimePointCalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/TimePointCalculationServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="loggingProjectZajavka" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2dzxzPGlCcfpO9VjGxUhALeKg5N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karol\IdeaProjects\loggingProjectZajavka\src\main\java\pl\zajavka\mortgage\service" />
+      <recent name="C:\Users\karol\IdeaProjects\loggingProjectZajavka\src\main\java\pl\zajavka\mortgage\model" />
+      <recent name="C:\Users\karol\IdeaProjects\loggingProjectZajavka\src\main\java\pl\zajavka\mortgage" />
+      <recent name="C:\Users\karol\IdeaProjects\loggingProjectZajavka\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MortgageCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.zajavka.mortgage.MortgageCalculator" />
+      <module name="loggingProjectZajavka.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.zajavka.mortgage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MortgageCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e53ebc74-f881-4c4f-915d-ae390b855e31" name="Changes" comment="" />
+      <created>1711024972458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711024972458</updated>
+    </task>
+    <servers />
+  </component>
+</project>
