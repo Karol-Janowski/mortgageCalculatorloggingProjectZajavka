@@ -56,7 +56,6 @@ public class DecreasingAmountsCalculationServiceImpl implements DecreasingAmount
     }
 
     private BigDecimal calculateDecreasingCapitalAmount(final BigDecimal residualAmount, final BigDecimal residualDuration) {
-        log.info("Calculate Decreasing Capital Amount...");
         return residualAmount.divide(residualDuration, 2, RoundingMode.HALF_UP);
     }
 }
