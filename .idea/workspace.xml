@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e53ebc74-f881-4c4f-915d-ae390b855e31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/mortgageCalculatorloggingProjectZajavka.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="e53ebc74-f881-4c4f-915d-ae390b855e31" name="Changes" comment="adding log to project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/MortgageCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/MortgageCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/AmountsCalculationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/AmountsCalculationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/AmountsCalculationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/AmountsCalculationServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/ConstantAmountsCalculationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/ConstantAmountsCalculationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/MortgageCalculationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/MortgageCalculationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/RateCalculationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/zajavka/mortgage/services/RateCalculationServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +96,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711024972458</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding log to project">
+      <option name="closed" value="true" />
+      <created>1711112850880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711112850880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding log to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding log to project" />
   </component>
 </project>
