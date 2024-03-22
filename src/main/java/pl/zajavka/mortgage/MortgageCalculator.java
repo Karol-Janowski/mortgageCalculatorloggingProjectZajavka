@@ -27,7 +27,7 @@ public class MortgageCalculator {
             .withAmount(new BigDecimal("296192.11"))
             .withMonthsDuration(BigDecimal.valueOf(360))
             .withOverpaymentReduceWay(Overpayment.REDUCE_RATE)
-            .withRateType(MortgageType.DECREASING)
+            .withRateType(MortgageType.CONSTANT)
             .withOverpaymentSchema(overpaymentSchema);
 
         PrintingService printingService = new PrintingServiceImpl();

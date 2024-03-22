@@ -1,11 +1,12 @@
 package pl.zajavka.mortgage.services;
 
 import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import pl.zajavka.mortgage.model.InputData;
 import pl.zajavka.mortgage.model.Overpayment;
 import pl.zajavka.mortgage.model.Rate;
 import pl.zajavka.mortgage.model.RateAmounts;
-
+@Slf4j
 @RequiredArgsConstructor
 public class AmountsCalculationServiceImpl implements AmountsCalculationService {
 

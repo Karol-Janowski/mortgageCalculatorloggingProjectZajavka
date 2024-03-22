@@ -1,5 +1,6 @@
 package pl.zajavka.mortgage.services;
 
+import lombok.extern.slf4j.Slf4j;
 import pl.zajavka.mortgage.model.InputData;
 import pl.zajavka.mortgage.model.Overpayment;
 import pl.zajavka.mortgage.model.Rate;
